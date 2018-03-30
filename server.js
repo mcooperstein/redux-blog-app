@@ -1,3 +1,9 @@
+/* add to scripts in package.json file
+"dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+"postinstall": "webpack -p",
+"start": "node server.js",
+*/
+
 const express = require('express');
 const path = require('path');
 const port = process.env.PORT || 8080;
