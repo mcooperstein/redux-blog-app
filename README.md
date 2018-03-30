@@ -1,6 +1,6 @@
 # Redux Blog Project
 
-POST/GET/DELETE from simple API 'http://reduxblog.herokuapp.com/api'
+Communicates POST/GET/DELETE requests with simple API: reduxblog.herokuapp.com/api
 
 ### Will soon refactor to use Firebase to add the following features:
 
